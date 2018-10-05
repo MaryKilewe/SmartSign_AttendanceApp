@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616346213068",
+    "firebase_url": "https://smartsignproject.firebaseio.com",
+    "project_id": "smartsignproject",
+    "storage_bucket": "smartsignproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616346213068:android:95d2496905285ba1",
+        "android_client_info": {
+          "package_name": "com.example.marys.smartsign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616346213068-2svqropkm810vnb4o134agdusutka1km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marys.smartsign",
+            "certificate_hash": "70763d8e45bde0292809b1c9b8871f40050f06de"
+          }
+        },
+        {
+          "client_id": "616346213068-9jsj9b10a8tdlon2lvckaespmfarfvn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dIyUo800WwpEC_fCU8mFXFVOT5V2Z04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616346213068-9jsj9b10a8tdlon2lvckaespmfarfvn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
